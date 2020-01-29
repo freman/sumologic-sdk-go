@@ -1,3 +1,3 @@
-module github.com/nextgenhealthcare/sumologic-sdk-go
+module github.com/freman/sumologic-sdk-go
 
 go 1.12
